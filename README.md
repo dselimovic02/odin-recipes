@@ -1,0 +1,1 @@
+This project has helped me in understanding version control with Git. 
